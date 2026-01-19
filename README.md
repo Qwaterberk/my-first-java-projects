@@ -9,7 +9,9 @@
 - запускается из командой строки
 
 **Как запустить:**
+
 javac SimpleCalculator.java
+
 java SimpleCalculator
 ### 2. FirstScanner.java
 **Простой ввод от пользователя** - Моя вторая рвбочя Java программа!
