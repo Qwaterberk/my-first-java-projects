@@ -27,5 +27,6 @@
 СВЯЗЬ:
 
 Мой GitHub: github.com/Qwaterberk
+Мой Gmail: bogdanselezen28@gmail.com
 
 Я открыт к советам и сотрудничеству!
