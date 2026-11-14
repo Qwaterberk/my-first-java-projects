@@ -1,8 +1,8 @@
 public class SimpleCalculator {
  public static void main(String[] args) {
-  int number1 = 10; // —юда пиши значени€. ƒо 2млрд!
-  int number2 = 2; //  —юда тоже
-  // Ќ»∆≈ Ќ≈ “–ќ√ј“№!!
+  int number1 = 10; // –Т–Т–Х–Ф–Ш –Я–Х–†–Т–Ю–Х –І–Ш–°–Ы–Ю!
+  int number2 = 2; //  –Т–Т–Х–Ф–Ш –Т–Ґ–Ю–†–Ю–Х!
+  // –Ф–Р–Ы–ђ–®–Х –Э–Ш–І–Х–У–Ю –Э–Х –Ґ–†–Ю–У–Р–Щ!!!
   int sum = number1 + number2;
   int difference = number1 - number2;
   int product = number1 * number2;
