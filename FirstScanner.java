@@ -1,12 +1,12 @@
-// Â İÒÎÌ ÊÎÄÅ ÂÎÎÁÙÅ ÍÈ×ÅÃÎ ÍÅ ÒĞÎÃÀÉ!!!
+// Ğ­Ğ¢ĞĞ¢ ĞšĞĞ” Ğ’ĞĞĞ‘Ğ©Ğ• ĞĞ• Ğ¢Ğ ĞĞ“ĞĞ™!!!
 import java.util.Scanner;
 
 public class FirstScanner {
  public static void main(String[] args) {
   Scanner sc = new Scanner(System.in);
-  System.out.println("Ââåäè ñâî¸ èìÿ:");
+  System.out.println("Ğ’Ğ²ĞµĞ´Ğ¸Ñ‚Ğµ ÑĞ²Ğ¾Ñ‘ Ğ¸Ğ¼Ñ: ");
   String name = sc.nextLine();
-  System.out.println("Ââåäè ñâîé âîçğàñò:");
+  System.out.println("Ğ’Ğ²ĞµĞ´Ğ¸Ñ‚Ğµ ÑĞ²Ğ¾Ğ¹ Ğ²Ğ¾Ğ·Ñ€Ğ°ÑÑ‚: ");
   int age = sc.nextInt();
   System.out.println("Name: "+name);
   System.out.println("Age: "+age);
